@@ -10,8 +10,9 @@ const allCategories = ["All", ...new Set(items.map((item) => item.category))];
 console.log(allCategories);
 
 function App() {
-  const [menuItem, setMenuItem] = useState(items);
-  const [buttons, setButtons] = useState(allCategories);
+    const [menuItem, setMenuItem] = useState(items);
+    const [buttons] = useState(allCategories);
+//   const [buttons, setButtons] = useState(allCategories);
 
   // Create filter part
   const filter = (category_button) => {
@@ -32,7 +33,7 @@ function App() {
       <div className="App">
         <div className="title">
           <h1>
-            Portfolio
+            React 
             <span>Filter</span>
           </h1>
         </div>

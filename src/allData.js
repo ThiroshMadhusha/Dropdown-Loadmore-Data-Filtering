@@ -10,18 +10,16 @@ export default [
     id: 1,
     image: blog1,
     title: "Tips and tricks to write good",
-    category: "Tips",
-    description:
-      "Lorem ipsum dolor sit amet,",
+    category: "Java",
+    description: "Lorem ipsum dolor sit amet,",
     github: "",
   },
   {
     id: 2,
     image: blog2,
     title: "How to use Search Engine",
-    category: "Tips",
-    description:
-      "Lorem ipsum dolor sit amet,",
+    category: "Java",
+    description: "Lorem ipsum dolor sit amet,",
     github: "",
   },
   {
@@ -29,8 +27,7 @@ export default [
     image: blog3,
     title: "10 Tricks and Tips in Python",
     category: "React",
-    description:
-      "Lorem ipsum dolor sit amet,",
+    description: "Lorem ipsum dolor sit amet,",
     github: "",
   },
   {
@@ -38,8 +35,7 @@ export default [
     image: blog1,
     title: "How to transition from Unreal",
     category: "Python",
-    description:
-      "Lorem ipsum dolor sit amet,",
+    description: "Lorem ipsum dolor sit amet,",
     github: "",
   },
   {
@@ -47,8 +43,7 @@ export default [
     image: blog5,
     title: "I think Fortnite is dead",
     category: "Python",
-    description:
-      "Lorem ipsum dolor sit amet,",
+    description: "Lorem ipsum dolor sit amet,",
     github: "",
   },
   {
@@ -56,8 +51,55 @@ export default [
     image: blog2,
     title: "Tips and tricks to write good",
     category: "Typescript",
-    description:
-      "Lorem ipsum dolor sit amet,",
+    description: "Lorem ipsum dolor sit amet,",
+    github: "",
+  },
+  {
+    id: 7,
+    image: blog1,
+    title: "Tips and tricks to write good",
+    category: "Angular",
+    description: "Lorem ipsum dolor sit amet,",
+    github: "",
+  },
+  {
+    id: 8,
+    image: blog2,
+    title: "How to use Search Engine",
+    category: "Angular",
+    description: "Lorem ipsum dolor sit amet,",
+    github: "",
+  },
+  {
+    id: 9,
+    image: blog3,
+    title: "10 Tricks and Tips in Python",
+    category: "React",
+    description: "Lorem ipsum dolor sit amet,",
+    github: "",
+  },
+  {
+    id: 10,
+    image: blog1,
+    title: "How to transition from Unreal",
+    category: "Python",
+    description: "Lorem ipsum dolor sit amet,",
+    github: "",
+  },
+  {
+    id: 11,
+    image: blog5,
+    title: "I think Fortnite is dead",
+    category: "Python",
+    description: "Lorem ipsum dolor sit amet,",
+    github: "",
+  },
+  {
+    id: 12,
+    image: blog2,
+    title: "Tips and tricks to write good",
+    category: "Typescript",
+    description: "Lorem ipsum dolor sit amet,",
     github: "",
   },
 ];
